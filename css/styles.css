@@ -1,0 +1,30 @@
+body
+{
+    background-color:#DAFFFB; /*colorhunt*/
+}
+hr
+{
+    width: 5%;
+    color: #64CCC5;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    
+}
+h1,h3
+{
+    color: #001C30;
+}
+h3
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+}
+.pic
+{
+    border-radius: 75%;
+}
+.cntc:hover
+{
+    background-color:#001C30;
+}
